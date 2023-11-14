@@ -18,3 +18,6 @@ Variables<br>
 Composicion<br>
 Convolution<br>
 Inverse<br>
+
+![image](https://github.com/GabrielMoraP/PseudoRandomNumbers/assets/150285459/b153d73b-2c77-4e9b-a372-3e9d8a5381b0)
+

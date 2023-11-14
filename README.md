@@ -1,20 +1,20 @@
 # PseudoRandomNumbers
 App that Implements Pseudo-Random Numbers Generators, Test for Random Numbers and Random Variables Generators
 
-Random Numbers
-Congruentials
-Medium Products
-Medium Quarters
-Constant Multiplicator
+Random Numbers<br>
+Congruentials<br>
+Medium Products<br>
+Medium Quarters<br>
+Constant Multiplicator<br>
 
-Tests (Chi, Poker)
-Aleatority
-Independence
-Promedy
-Uniformity
-Variance
+Tests (Chi, Poker)<br>
+Aleatority<br>
+Independence<br>
+Promedy<br>
+Uniformity<br>
+Variance<br>
 
-Variables
-Composicion
-Convolution
-Inverse
+Variables<br>
+Composicion<br>
+Convolution<br>
+Inverse<br>
